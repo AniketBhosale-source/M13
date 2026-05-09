@@ -8,6 +8,7 @@ public class Demo1Test {
 	public void Mangotest()
 	{
 		Reporter.log("Hello",true);
+		Reporter.log("Mango",true);
 	}
 
 }
